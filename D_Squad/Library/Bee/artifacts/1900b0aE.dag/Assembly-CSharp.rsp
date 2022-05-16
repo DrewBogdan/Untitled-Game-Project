@@ -124,6 +124,7 @@
 -define:GRIFFIN_2020
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.cinemachine@2.8.4/Runtime/ThirdParty/clipper_library.dll"
 -r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"F:/Unity/Unity Hub/Editor/2022.1.0f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"F:/Unity/Unity Hub/Editor/2022.1.0f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -329,6 +330,8 @@
 -r:"F:/Unity/Unity Hub/Editor/2022.1.0f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"F:/Unity/Unity Hub/Editor/2022.1.0f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"F:/Unity/Unity Hub/Editor/2022.1.0f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Pinwheel.Polaris.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Pinwheel.Polaris.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -347,6 +350,7 @@
 "Assets/Polaris - Low Poly Ecosystem/Polaris - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GFpsCounter.cs"
 "Assets/Polaris - Low Poly Ecosystem/Polaris - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GRuntimeTexturePainter.cs"
 "Assets/Polaris - Low Poly Ecosystem/Polaris - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GTakeScreenshot.cs"
+"Assets/ThirdPersonMovement.cs"
 -langversion:9.0
 
 /deterministic

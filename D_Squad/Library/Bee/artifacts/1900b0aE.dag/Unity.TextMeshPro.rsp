@@ -124,6 +124,7 @@
 -define:GRIFFIN_2020
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.cinemachine@2.8.4/Runtime/ThirdParty/clipper_library.dll"
 -r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.collab-proxy@1.15.16/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.collab-proxy@1.15.16/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"F:/Unity/Summer Project/Game Project/D_Squad/Library/PackageCache/com.unity.collab-proxy@1.15.16/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
