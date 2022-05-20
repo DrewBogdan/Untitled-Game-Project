@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637883373344499978
-    m_Hash: 694945458
+      ticks: 637883581359385941
+    m_Hash: 2587626956
   m_LockFileStatus:
     m_FilePath: F:/Unity/Summer Project/Game Project/D_Squad/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637883373345068161
-    m_Hash: 1592090025
+      ticks: 637883581359390945
+    m_Hash: 296714052
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
